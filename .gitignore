@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+llm_checkpoints/
+*.pt
+*.bin
+*.pth
+.venv/
+venv/
